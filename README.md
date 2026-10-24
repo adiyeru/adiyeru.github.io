@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # adiyeru.github.io
 ## About Me
 
