@@ -34,7 +34,7 @@ I am particularly interested in:
 
 ## Goals for the Python Course
 
-### Through the [Weizmann Python Course (October 2026)](https://github.com/Code-Maven/wis-python-course-2026-10), I hope to:
+Through the [Weizmann Python Course (October 2026)](https://github.com/Code-Maven/wis-python-course-2026-10), I hope to:
 
 1. **Improve my Python programming practices**, including writing cleaner, more efficient, and maintainable code.
 2. **Develop more reproducible research workflows**, using Git, GitHub, and project organization tools.
