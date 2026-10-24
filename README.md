@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About Me
+## About Me
 
 I am an M.Sc. student in Brain Sciences at the Weizmann Institute of Science, focusing on computational neuroscience.
 
