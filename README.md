@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Academic Profile
 
 ## About Me
