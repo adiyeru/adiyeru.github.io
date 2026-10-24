@@ -1,8 +1,3 @@
----
-layout: default
-title: "Adi Yerushalmi"
----
-
 ## About Me
 
 I am an M.Sc. student in Brain Sciences at the Weizmann Institute of Science, focusing on computational neuroscience.
