@@ -1,3 +1,5 @@
 title: Adi Yerushalmi
 description: M.Sc. Brain Sciences | Weizmann Institute of Science
 theme: jekyll-theme-cayman
+titles_from_headings:
+  enabled: false
