@@ -1,4 +1,7 @@
-# Academic Profile
+---
+layout: default
+title: "Adi Yerushalmi"
+---
 
 ## About Me
 
