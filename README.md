@@ -6,7 +6,7 @@ I hold a B.Sc. in Physics, Brain Science and Cognition from the Hebrew Universit
 
 My academic interests lie at the intersection of neuroscience, computation, and quantitative modeling.
 
-## Research Background
+## My Research Background
 
 My research experience includes:
 
