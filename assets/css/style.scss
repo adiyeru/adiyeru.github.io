@@ -1,20 +1,11 @@
-
 ---
 ---
 
 @import "{{ site.theme }}";
-
-/* Academic banner */
-.page-header {
-  background-image: linear-gradient(110deg, #403753, #625673, #817492);
-}
-
-/* Page background */
-body {
-  background-color: #F4F2F8;
-}
-
-/* Main content panel */
+.page-header {background-image: linear-gradient(110deg, #403753, #625673, #817492);}
+.main-content {max-width: 850px; line-height: 1.7;}
+.main-content h1,.main-content h2,.main-content h3 {color: #403753;}
+body {background-color: #F4F2F8;}
 .main-content {
   max-width: 900px;
   line-height: 1.7;
@@ -23,13 +14,6 @@ body {
   box-shadow: 0 6px 24px rgba(40, 45, 70, 0.08);
   margin: 2rem auto;
   padding: 2.5rem;
-}
-
-/* Headings */
-.main-content h1,
-.main-content h2,
-.main-content h3 {
-  color: #403753;
 }
 
 /* Highlight the About Me section */
@@ -42,7 +26,7 @@ body {
   color: #343746;
 }
 
-/* Paragraph spacing inside highlighted section */
+/* Paragraph spacing inside the highlighted section */
 .main-content blockquote p {
   margin-bottom: 0.8rem;
 }
@@ -50,12 +34,9 @@ body {
 .main-content blockquote p:last-child {
   margin-bottom: 0;
 }
-
-/* Mobile adjustments */
-@media screen and (max-width: 600px) {
-  .main-content {
-    margin: 1rem;
-    padding: 1.5rem;
-    border-radius: 14px;
-  }
+.main-content blockquote {
+  background-color: #F4F1F8;
+  border-left: 4px solid #84739C;
+  border-radius: 0 10px 10px 0;
+  padding: 1.2rem 1.5rem;
 }
